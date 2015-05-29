@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: asdb-dashboard\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-07 21:38+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Mikhail Tkachev aka kitassa <www@artstorm.su>\n"
+"Language-Team: stur <www@artstorm.su>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n"
+"%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: ../asdb-dashboard.php:18
+msgid "Live"
+msgstr "Опубликовано"
+
+#: ../asdb-dashboard.php:19
+msgid "Offline"
+msgstr "Выключено"
+
+#: ../asdb-dashboard.php:20
+msgid "Awaiting Approval"
+msgstr "Ожидает модерации"
+
+#: ../asdb-dashboard.php:21
+msgid "Scheduled"
+msgstr "Запланировано"
+
+#: ../asdb-dashboard.php:41
+msgid "This page is restricted. Please %s to view this page."
+msgstr "Доступк Личному Кабинету ограничен. Вы можете %s, для управления своими записями"
+
+#: ../asdb-dashboard.php:61
+msgid "Post Deleted"
+msgstr "Запись удалена"
+
+#: ../asdb-dashboard.php:77
+msgid "%s's Dashboard"
+msgstr "Личный Кабинет: %s"
+
+#: ../asdb-dashboard.php:79
+msgid "You have created <span>%d</span> %s"
+msgstr "Вами создано: <span>%d</span> %s"
+
+#: ../asdb-dashboard.php:91
+msgid "Featured Image"
+msgstr "Миниатюра"
+
+#: ../asdb-dashboard.php:92
+msgid "Title"
+msgstr "Заголовок"
+
+#: ../asdb-dashboard.php:93
+msgid "Status"
+msgstr "Статус"
+
+#: ../asdb-dashboard.php:94
+msgid "Options"
+msgstr "Возможности"
+
+#: ../asdb-dashboard.php:106
+msgid "No Image"
+msgstr "Миниатюра отсутствует"
+
+#: ../asdb-dashboard.php:116
+msgid "Permalink to %s"
+msgstr "Постоянная ссылка для %s"
+
+#: ../asdb-dashboard.php:126
+msgid "Edit"
+msgstr "Редактировать"
+
+#: ../asdb-dashboard.php:127
+msgid "Delete"
+msgstr "Удалить"
+
+#: ../asdb-dashboard.php:127
+msgid "Are you sure to delete this post?"
+msgstr "Вы уверены что хотите удалить запись?"
+
+#: ../asdb-dashboard.php:139
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: ../asdb-dashboard.php:140
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: ../asdb-dashboard.php:150
+msgid "No %s found"
+msgstr "Записи типа ( %s ) не найдены"
+
+#: ../asdb-dashboard.php:177
+msgid "You are not the post author."
+msgstr "Вы не явлеятесь автором записи"
